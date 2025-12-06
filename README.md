@@ -25,5 +25,3 @@ Tech Stack
 🤝 Contributions
 Feel free to fork the repo or suggest improvements.
 
-## 📄 License
-MIT License
